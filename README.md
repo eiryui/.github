@@ -11,7 +11,7 @@
 ![Self Hosted](https://img.shields.io/badge/self--hosted-ready-22d3ee?style=for-the-badge)
 ![More Coming](https://img.shields.io/badge/more-coming%20soon-f97316?style=for-the-badge)
 
-<img src="https://raw.githubusercontent.com/Eiryui/.github/main/logo/eiryui-banner.png" alt="Eiryui" height="220" />
+<img src="https://raw.githubusercontent.com/Eiryui/.github/main/logo/eiryui-banner.png" alt="Eiryui" height="660" />
 
 [🏠 About](#-about) •
 [🚀 Projects](#-projects) •
