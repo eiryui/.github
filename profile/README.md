@@ -1,12 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<img src="https://raw.githubusercontent.com/Eiryui/.github/main/logo/logo.png" alt="Eiryui" height="110" />
 
-**Here are some ideas to get you started:**
+# 🌸 Welcome to Eiryui
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**A self-hosted, ad-free anime streaming ecosystem — clean, fast and open.**
+
+![Open Source](https://img.shields.io/badge/open-source-8F5CF8?style=for-the-badge)
+![Ad Free](https://img.shields.io/badge/ad--free-no%20tracking-4ade80?style=for-the-badge)
+![Self Hosted](https://img.shields.io/badge/self--hosted-ready-22d3ee?style=for-the-badge)
+![More Coming](https://img.shields.io/badge/more-coming%20soon-f97316?style=for-the-badge)
+
+[🏠 About](#-about) •
+[🚀 Projects](#-projects) •
+[🛣️ Roadmap](#️-roadmap) •
+[🤝 Contribute](#-contribute) •
+[⚖️ Legal](#️-legal)
+
+</div>
+
+---
+
+## 🏠 About
+
+Eiryui is a growing set of open-source projects for building your own anime streaming experience: a sleek dark-UI frontend, a fast multi-provider API, and more tools on the way. No ads, no tracking, no bloat.
+
+## 🚀 Projects
+
+| | Project | Description |
+|---|---|---|
+| 🎬 | [**Eiryui**](https://github.com/Eiryui/Eiryui) | The frontend — a single-page, build-free web app with HLS playback, sub/dub, auto-skip intro/outro, continue watching and PWA support. |
+| ⚡ | [**Eiryui-API**](https://github.com/Eiryui/Eiryui-API) | The backend API — search, filter and stream with 10 native providers racing concurrently; the fastest stream wins. |
+| 🗂️ | **Indexer** | 🚧 Coming soon. |
+| ✨ | **More to come** | New projects will be announced here as they land. |
+
+## 🛣️ Roadmap
+
+- [x] 🎬 Frontend
+- [x] ⚡ API
+- [ ] 🗂️ Indexer
+- [ ] ✨ More projects
+
+## 🤝 Contribute
+
+Found a bug or have an idea? Open an issue or a pull request on the relevant project repository. Contributions and feedback are always welcome.
+
+## ⚖️ Legal
+
+> [!NOTE]
+> Eiryui projects do **not** host, store or upload any video files. They only link to content hosted by third-party services. Use responsibly and in accordance with the laws of your jurisdiction.
+
+---
+
+<div align="center">
+
+**Built with ❤️ for the anime community**
+
+</div>
