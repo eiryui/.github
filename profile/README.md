@@ -15,7 +15,6 @@
 
 [🏠 About](#-about) •
 [🚀 Projects](#-projects) •
-[🛣️ Roadmap](#️-roadmap) •
 [🤝 Contribute](#-contribute) •
 [⚖️ Legal](#️-legal)
 
@@ -35,13 +34,6 @@ Eiryui is a growing set of open-source projects for building your own anime stre
 | ⚡ | [**Eiryui-API**](https://github.com/Eiryui/Eiryui-API) | The backend API — search, filter and stream with 10 native providers racing concurrently; the fastest stream wins. |
 | 🗂️ | **Indexer** | 🚧 Coming soon. |
 | ✨ | **More to come** | New projects will be announced here as they land. |
-
-## 🛣️ Roadmap
-
-- [x] 🎬 Frontend
-- [x] ⚡ API
-- [ ] 🗂️ Indexer
-- [ ] ✨ More projects
 
 ## 🤝 Contribute
 
