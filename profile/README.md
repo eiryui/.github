@@ -31,7 +31,7 @@ Eiryui is a growing set of open-source projects for building your own anime stre
 | | Project | Description |
 |---|---|---|
 | 🎬 | [**Eiryui**](https://github.com/Eiryui/Eiryui) | The frontend — a single-page, build-free web app with HLS playback, sub/dub, auto-skip intro/outro, continue watching and PWA support. |
-| ⚡ | [**Eiryui-API**](https://github.com/Eiryui/Eiryui-API) | The backend API — search, filter and stream with 10 native providers racing concurrently; the fastest stream wins. |
+| ⚡ | [**Eiryui-API**](https://github.com/Eiryui/Eiryui-API) | The backend API — search, filter and stream with 10 native providers racing concurrently; the fastest stream wins. (No Longer Maintained) |
 | 🗄️ | [**AniList-DB-Dump**](https://github.com/eiryui/AniList-DB-Dump) | Automated weekly AniList Database dump. |
 | ✨ | **More to come** | New projects will be announced here as they land. |
 
